@@ -1,0 +1,2 @@
+# ScrabbleTriche
+tricheur pour scrabble
